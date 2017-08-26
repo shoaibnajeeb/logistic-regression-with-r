@@ -1,0 +1,9 @@
+# data files
+*.csv
+*.txt
+
+# data folders
+data/
+
+# R support files
+*.RData
